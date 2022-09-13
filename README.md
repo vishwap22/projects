@@ -1,2 +1,2 @@
 # projects
-a repository that has all my completed or in progress projects
+find all my projects in this repository :)
